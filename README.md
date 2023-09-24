@@ -54,6 +54,13 @@ Before running the application, make sure you have the following dependencies in
 - TextBlob (for sentiment analysis)
 - A Twitter Developer account and API keys (to access Twitter data)
 
+## Viewing the Application
+Explore the [WebApp]
+
+Upon opening the link, you'll be greeted by a user-friendly interface that lets you interact with various machine learning models. The app enables you to explore the data used, select a classification algorithm of your choice, and dynamically adjust hyperparameters. These features allow you to observe in real-time how different configurations impact the model's performance.
+
+Built with Streamlit, the application provides a highly interactive platform that bridges the gap between machine learning and web development. It's designed to be self-explanatory, but don't hesitate to reach out with any questions or feedback.
+
 ## Reference
 CouRseRa | Online courses & credentials from top educators. Join for free | Coursera. (n.d.). Coursera. https://www.coursera.org/learn/interactive-dashboards-streamlit-python/supplement/PL74V/project-based-course-overview
 
