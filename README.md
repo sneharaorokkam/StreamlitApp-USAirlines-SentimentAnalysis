@@ -13,7 +13,7 @@ Task 6: Plotting Location Data on an Interactive Map
 Task 7: Plot the Number of Tweets by Sentiment for Each Airline
 Task 8: Word Cloud for Positive, Neutral, and Negative Tweets
 
-##Reference
+## Reference
 CouRseRa | Online courses & credentials from top educators. Join for free | Coursera. (n.d.). Coursera. https://www.coursera.org/learn/interactive-dashboards-streamlit-python/supplement/PL74V/project-based-course-overview
 
  
