@@ -55,7 +55,7 @@ Before running the application, make sure you have the following dependencies in
 - A Twitter Developer account and API keys (to access Twitter data)
 
 ## Viewing the Application
-Explore the [Web App](https://appapp-usairlines-sentimentanalysis.streamlit.app/)
+Explore the [WebApp](https://appapp-usairlines-sentimentanalysis.streamlit.app/)
 
 Upon opening the link, you'll be greeted by a user-friendly interface that lets you interact with various machine learning models. The app enables you to explore the data used, select a classification algorithm of your choice, and dynamically adjust hyperparameters. These features allow you to observe in real-time how different configurations impact the model's performance.
 
