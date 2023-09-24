@@ -4,7 +4,6 @@
 This is a Streamlit web application for sentiment analysis of tweets related to major US airlines. The application allows users to enter a Twitter username and retrieve the sentiment analysis of their recent tweets. Sentiment analysis is performed using Natural Language Processing (NLP) techniques, and the results are visualized using Plotly charts.
 
 ## Project Structure
-![USAirlines](https://user-images.githubusercontent.com/1234567/INSERT_IMAGE_URL_HERE)
 
 ## Project Structure and Tasks
 
